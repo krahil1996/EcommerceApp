@@ -1,0 +1,117 @@
+ [
+        {
+          "id": 0,
+          "brand": "Apple",
+          "price": 345,
+          "sizes": [
+            {
+              "name": "64 GB",
+              "inStock": true
+            },
+            {
+              "name": "128 GB",
+              "inStock": true
+            },
+            {
+              "name": "256 GB",
+              "inStock": true
+            }
+          ],
+          "title": "iPhone 15",
+          "colors": [
+            {
+              "name": "Black",
+              "class": "bg-black",
+              "selectedClass": "border-gray-900"
+            },
+            {
+              "name": "White",
+              "class": "bg-white",
+              "selectedClass": "border-gray-900"
+            },
+            {
+              "name": "Red",
+              "class": "bg-red",
+              "selectedClass": "border-red-900"
+            }
+          ],
+          "detail": "",
+          "images": [
+            "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/51wKeZuX6rL._SX679_.jpg",
+            "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/81BnjSLm2oL._SX679_.jpg",
+            "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/613xywt-yvL._SX679_.jpg"
+          ],
+          "rating": 4.69,
+          "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus, lorem sed tempor elementum, libero ligula aliquet libero, nec accumsan ipsum sem eget quam. Phasellus nec ultricies magna. Nulla facilisi. Maecenas pharetra tellus sit amet lectus ultricies, nec interdum nulla suscipit. Proin lacinia vel magna vel vehicula. Nullam vel ipsum id felis cursus semper. Aliquam sed vestibulum nunc. Sed sit amet elit a magna vehicula condimentum. Integer in nunc lectus. Sed a est in nunc fermentum tincidunt id a orci. Integer pretium elit eget tortor vulputate, vel dictum velit consectetur. Nullam bibendum eu magna et pulvinar. Nam ultricies neque ac justo ultricies, id dapibus libero molestie. Fusce ut libero auctor, placerat nunc in, bibendum lorem. Vivamus non felis ut purus vestibulum cursus. Vivamus quis tortor nec sapien sagittis lobortis sit amet nec tellus.",
+          "category": "smartphones",
+          "thumbnail": "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/71d7rfSl0wL._SX679_.jpg",
+          "highlights": [
+            "Sleek design",
+            "Advanced A-series chip",
+            "Enhanced camera system",
+            "5G connectivity"
+          ],
+          "description": "The iPhone 15, anticipated as a flagship, boasts a sleek design, advanced A-series chip, enhanced camera system, 5G connectivity, and innovative software features for exceptional performance and user experience."
+        },
+        {
+          "id": 1,
+          "brand": "Rivet Modern Upholstered Sofa",
+          "price": 699.99,
+          "sizes": [
+            {
+              "name": "Small",
+              "inStock": true
+            },
+            {
+              "name": "Medium",
+              "inStock": true
+            },
+            {
+              "name": "Large",
+              "inStock": false
+            }
+          ],
+          "title": "Rivet Modern Upholstered Sofa",
+          "colors": [
+            {
+              "name": "White",
+              "class": "bg-white",
+              "selectedClass": "border-white-500"
+            }
+          ],
+          "images": [
+            "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/51s-5V9w-zL._SX522_.jpg",
+            "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/51BxnGjXPkL._SY741_.jpg",
+            "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/61LTeeRn2gL._SX522_.jpg"
+          ],
+          "details": "A timeless wardrobe staple, this classic white t-shirt features a comfortable fit and durable cotton construction.",
+          "category": "Sofas",
+          "thumbnail": "https://m.media-amazon.com/images/W/MEDIAX_849526-T1/images/I/71hu8RA7+BL._SX522_.jpg",
+          "highlights": [
+            "Comfortable Fit",
+            "Durable Cotton Construction"
+          ],
+          "description": "The Rivet Modern Upholstered Sofa features a sleek design with comfortable cushions. Perfect for modern living rooms, it adds style and functionality to your home decor."
+        },
+        {
+          "id": 2,
+          "brand": "LG",
+          "price": 30990,
+          "sizes": [
+            {
+              "name": "Small",
+              "inStock": true
+            },
+            {
+              "name": "Medium",
+              "inStock": false
+            },
+            {
+              "name": "Large",
+              "inStock": true
+            }
+          ]
+        }
+      ]
+      
+       
